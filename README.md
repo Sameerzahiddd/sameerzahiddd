@@ -6,7 +6,7 @@ Before Giga AI, I was an FDE at [Lindy](https://www.lindy.ai), where I built [75
 
 **Built**
 
-- [otom8](https://otom8.us): a white-labeled platform for AI agents
+- [otom8](https://otom8.us): a white-labeled platform for AI agents, which I ran from June 2022 to June 2026
 - SportSpot: a booking platform for sports venues, sold to 20+ venues in 2 countries
 - [ReadEase](https://github.com/Sameerzahiddd/ReadEase): a browser extension and web app that highlights text to make reading easier
 - [Connect4](https://github.com/Sameerzahiddd/Connect4): Connect Four against a minimax agent with alpha-beta pruning
